@@ -1,0 +1,31 @@
+
+@keyframes slide-right {
+  from {
+    margin-left: -400%;
+  }
+  to {
+    margin-left: 0%;
+  }
+}
+
+@keyframes slide-left {
+  from {
+    margin-left:400%;
+  }
+  to {
+    margin-left:0%;
+  }
+}
+
+@keyframes fade-in {
+  from {
+    opacity:0;
+  }
+  to {
+    opacity:1;
+  }
+}
+
+.about-descr:hover {
+	transform:scale(1.05);
+}
