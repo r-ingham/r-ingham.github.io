@@ -60,8 +60,10 @@
 					<span class="material-symbols-outlined chevron-symbol" style="font-size:1rem;">chevron_right</span>
 				</div>
 			</div>
-			<div class="proj-image-container">
-				<img src = ./Images/LaserVibrometer_Experimental_Setup.jpg >
+			<div class="about-descr">
+				<div class="proj-image-container">
+					<img src = ./Images/LaserVibrometer_Experimental_Setup.jpg >
+				</div>
 			</div>
 		</div>
 	</div>
@@ -69,10 +71,18 @@
 		<div class="about-container">
 			<div class="about-intro">
 				<div class="section-header">
-					PROJECT 2
+					RASPBERRY PI SMART MIRROR
 				</div>
 				<div class="section-descr">
-					Bla bla bla
+					A project requiring the seamless integration of hardware and software because, why not?
+					<br><br>
+					Read More...
+					<span class="material-symbols-outlined chevron-symbol" style="font-size:1rem;">chevron_right</span>
+				</div>
+			</div>
+			<div class="about-descr">
+				<div class="proj-image-container">
+					<img src = ./Images/Finished_Smart_Mirror.jpg >
 				</div>
 			</div>
 		</div>
